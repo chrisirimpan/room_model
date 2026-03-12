@@ -12,6 +12,7 @@ Software Used:
 - Blender
 
 Files:
-- room_model.blend – main Blender project file
 - renders/ – final rendered images of the room
 - screenshots/ – viewport images from Blender
+## Download Blender File
+[Download the Blender Project](https://drive.google.com/file/d/1nzB9bSTVYaGyTsueE0mgsmdzcqoC5j1p/view?usp=drive_link)
